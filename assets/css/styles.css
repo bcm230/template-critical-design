@@ -19,6 +19,10 @@ body {
 	height: 400px;
 }
 
+.backgroundImage:hover {
+	background-image: url(../img/clock.png);
+	cursor: crosshair;
+}
 h1 {
 	font-family: "Caveat", cursive;
 	font-size: 100px;
