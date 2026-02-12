@@ -1,11 +1,17 @@
 /* styles.css */
 
 * {
-	font-family: Arial;
+	font-family: Arial Helvetica, sans-serif, seri;
 }
 
 body {
-	font-family: "Roboto", sans-serif;
-	margin: 0;
-	background-color: white;
+	background-color: dodgerblue;
+
+.container {
+	width: 500px;
+	margin: 50px auto;
 	text-align: center;
+}
+
+.backgroundImage {
+	background-image: url(../img/wrench.png);
